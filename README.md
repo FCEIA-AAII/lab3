@@ -1,4 +1,4 @@
-# Lab 3 - Clasificación de imágenes + Experimentación con distintos optimizadores
+# Lab 3 - Clasificación de imágenes + Experimentación con distintos optimizadores.
 
 ### Lab 3a
 
